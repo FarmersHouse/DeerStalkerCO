@@ -11,6 +11,6 @@ DEERSTALKERCO PROMISES TO BRING YOU MOST ICONIC BRAND AND DRAMATIC EXPERIENCE
 
 
 # Screenshot
-<img src="Demo DSCO.mov" width="30%" />
+<img src="https://i9.ytimg.com/vi/Y6moHJ2pt08/mq3.jpg?sqp=CKSDn_sF&rs=AOn4CLD3Oxzfmf05mAq7972yL6Od9gG0AQ" width="30%" />
 [![DEERSTALKERCO ©](https://i9.ytimg.com/vi/Y6moHJ2pt08/mq3.jpg?sqp=CKSDn_sF&rs=AOn4CLD3Oxzfmf05mAq7972yL6Od9gG0AQ)](https://youtu.be/Y6moHJ2pt08 "DSCO")
 
